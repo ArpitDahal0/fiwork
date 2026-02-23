@@ -45,5 +45,5 @@ io.on("connection", (socket) => {
 });
 
 app.get("/", (_, res) => {
-    res.json("This is fivework server");
+    res.json("This is fiwork server");
 });
